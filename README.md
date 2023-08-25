@@ -10,8 +10,11 @@
 <h3 align="center">A passionate learner and Software Engineer from India</h3>
 
 ## 🏆 GitHub Trophies
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+<div align="center">
+  
   ![](https://github-profile-trophy.vercel.app/?username=AryabhattSingh&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 # 💫 About Me:
 
